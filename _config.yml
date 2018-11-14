@@ -1,12 +1,15 @@
 theme: jekyll-theme-minimal
-title: DocJ
+title: >
+  DocJungle<br>
+  FPGA-Group@<br>
+  Trusted Cloud Lab<br>
 description: >
-  FPGA-Group@Trusted Cloud Lab, /<br>
-  Shanghai Jiaotong University/<br>
-  Zhengwei Qi : qizhwei@sjtu.edu.cn/<br>
-  Yanqiang Liu : oai@sjtu.edu.cn/<br>
-  Yongbiao Chen : /<br>
-  KaiChen Guo : /<br>
-  Chen'gang Wu : /<br>
-  Kaishi Li : lee_cash@126.com/<br>
-  Yinjie Zhang : /<br>
+  FPGA-Group@Trusted Cloud Lab, <br>
+  Shanghai Jiaotong University<br>
+  Zhengwei Qi : qizhwei@sjtu.edu.cn<br>
+  Yanqiang Liu : oai@sjtu.edu.cn<br>
+  Yongbiao Chen : <br>
+  KaiChen Guo : <br>
+  Chen'gang Wu : <br>
+  Kaishi Li : lee_cash@126.com<br>
+  Yinjie Zhang : <br>
